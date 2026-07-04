@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Rifqy Arifin
 
-### 🎨 UI/UX Designer • 🎮 Aspiring Game Programmer • 💻 Software Developer
+### 🎨 UI/UX Designer • 🎮 Aspiring Game Programmer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Designing+Meaningful+Experiences;Building+Interactive+Applications;Learning+Game+Development;Always+Learning+New+Things"/>
 
