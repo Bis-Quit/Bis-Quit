@@ -116,14 +116,6 @@ location: Indonesia
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bis-Quit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bis-Quit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bis-Quit&theme=tokyo-night&hide_border=true"/>
 
 </p>
@@ -133,57 +125,5 @@ location: Indonesia
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bis-Quit&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-<br>
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="[https://github.com/Bis-Quit/ShibuyaRoboFight](https://github.com/Bis-Quit/ShibuyaRoboFight)">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bis-Quit&repo=ShibuyaRoboFight&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://ctrlfun.itch.io/last-exodus">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bis-Quit&repo=LastExodus-Capture_Acropolis&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Bis-Quit/JawantaraLegacy">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bis-Quit&repo=JawantaraLegacy&theme=tokyonight&hide_border=true"/>
-</a>
-
-<!-- Tambahkan project keempat di sini nanti -->
-
-</p>
-
-<br>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Bis-Quit/Bis-Quit/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<br>
-
-# 💭 Design Philosophy
-
-> *"Great products come from understanding people first, then crafting experiences that feel effortless and meaningful."*
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Bis-Quit&style=for-the-badge"/>
-
-### ⭐ Thanks for visiting my profile!
-
-*"Keep learning • Keep building • Keep creating"* 🚀
 
 </div>
